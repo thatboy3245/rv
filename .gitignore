@@ -4,6 +4,8 @@
 *.elf
 # 3ds home metadata
 *.smdh
+# image
+*.png
 # building folders
 build/
 romfs/
