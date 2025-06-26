@@ -1,5 +1,9 @@
+# main executable
 *.3dsx
+# linker
 *.elf
+# 3ds home metadata
 *.smdh
+# building folders
 build/
 romfs/
