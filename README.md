@@ -1,5 +1,5 @@
 # Green Screen
-This app is a easy color switcher created with Citra2D... remember, USING THE SOURCE CODE IS CHEATING to find the easter eggs!
+This app is a easy color switcher created with Citra2D... remember, **USING THE SOURCE CODE IS CHEATING to find the easter eggs!**
 
 
 
